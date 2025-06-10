@@ -1,16 +1,50 @@
 # Gemfactory
 
-A web application for generating, managing, and showcasing digital gems or assets.
+This project was created with React + TypeScript + Vite.
+
+## Getting Started
+
+To run this project locally:
+
+```bash
+npm install
+npm run dev
+```
+
+The app will be available at http://localhost:8080
+
+## Building for Production
+
+```bash
+npm run build
+```
+
+## Deployment
+
+This project is automatically deployed to GitHub Pages via GitHub Actions when changes are pushed to the main branch.
+
+Visit the live site at: https://igor-kan.github.io/gemfactory
+
+## Technology Stack
+
+- React 18
+- TypeScript
+- Vite
+- Tailwind CSS
+- Shadcn/ui components
+- React Router
+- React Hook Form
+- Zod validation
+- Tanstack Query
+- Recharts
 
 ## Features
 
-- Create and manage digital gems
-- Asset analytics and insights
-- Modern, responsive UI
-
-## Live Demo
-
-Visit the live site: [https://igor-kan.github.io/gemfactory](https://igor-kan.github.io/gemfactory)
+- Modern responsive design
+- Dark/light theme support
+- Form validation
+- Data visualization
+- Component library integration
 
 ## Local Development
 
